@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Aluno.cpp" />
+    <ClCompile Include="ListAluno.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Pessoa.cpp" />
     <ClCompile Include="Principal.cpp" />
@@ -136,6 +137,7 @@
   <ItemGroup>
     <ClInclude Include="Aluno.h" />
     <ClInclude Include="includes.h" />
+    <ClInclude Include="ListAluno.h" />
     <ClInclude Include="Pessoa.h" />
     <ClInclude Include="Principal.h" />
     <ClInclude Include="Universidade.h" />

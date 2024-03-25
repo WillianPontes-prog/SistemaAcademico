@@ -5,6 +5,7 @@
 #include "Pessoa.h"
 #include "Universidade.h"
 #include "Aluno.h"
+#include "ListAluno.h"
 
 class Principal {
 private:
@@ -13,6 +14,8 @@ private:
 	int anoAtual;
 
 	Aluno Willian;
+
+	ListAluno teste;
 
 	Universidade UTFPR;
 
